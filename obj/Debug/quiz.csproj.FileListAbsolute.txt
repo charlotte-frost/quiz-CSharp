@@ -1,0 +1,7 @@
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\bin\Debug\quiz.exe.config
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\obj\Debug\quiz.exe
+C:\Users\Charlotte\Desktop\C#\quiz\quiz\obj\Debug\quiz.pdb
